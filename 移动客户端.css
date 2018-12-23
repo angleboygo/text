@@ -1,0 +1,50 @@
+	body{
+		margin: 0 auto;
+		height: 800px;
+	}
+	header{
+		width: 100%;
+		height: 10%;
+		background-color: #AEFEEE;
+	}
+	header h4{
+		display: inline-block;
+		line-height: 100%;
+		margin: 0;
+	}
+/*	header img{
+		display: inline-block;
+		position: relative;
+		top:19px;
+		
+	}*/
+	figure{
+		margin: 20px;
+		font-size: 0px;
+	}
+	aside{
+		width: 20%;
+		height: 80%;
+		background-color: #708090;
+		float: left;
+	}
+	section{
+		width: 80%;
+		height: 80%;
+		background-color: #D8BFD8;
+		float: right;
+		overflow: scroll;
+	}
+	footer{
+		clear: both;
+		width: 100%;
+		height: 10%;
+		background-color: green;
+	}
+	img{
+		max-width: 50%;
+	}
+	figcaption{
+		font-size: 16px;
+		text-align: center;
+	}
